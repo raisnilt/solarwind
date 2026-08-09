@@ -6,9 +6,9 @@ window.currentEnergyData = [
     "solar_generation_mw": 27.325,
     "solar_capacity_gw_used": 8.8465,
     "solar_capacity_factor_percent": 0.3088792177697394,
-    "wind_generation_mw": 40.125,
+    "wind_generation_mw": 46.6,
     "wind_capacity_gw_used": 0.325075,
-    "wind_capacity_factor_percent": 12.343305391063602
+    "wind_capacity_factor_percent": 14.335153426132432
   },
   {
     "datetime_unix_seconds": 1786143600,
@@ -17,9 +17,9 @@ window.currentEnergyData = [
     "solar_generation_mw": 27.6,
     "solar_capacity_gw_used": 8.8465,
     "solar_capacity_factor_percent": 0.3119877917820607,
-    "wind_generation_mw": 34.825,
+    "wind_generation_mw": 38.95,
     "wind_capacity_gw_used": 0.325075,
-    "wind_capacity_factor_percent": 10.712912404829655
+    "wind_capacity_factor_percent": 11.981850342228718
   },
   {
     "datetime_unix_seconds": 1786147200,
@@ -28,9 +28,9 @@ window.currentEnergyData = [
     "solar_generation_mw": 26.025,
     "solar_capacity_gw_used": 8.8465,
     "solar_capacity_factor_percent": 0.2941841406205844,
-    "wind_generation_mw": 33.775000000000006,
+    "wind_generation_mw": 38.975,
     "wind_capacity_gw_used": 0.325075,
-    "wind_capacity_factor_percent": 10.389910020764441
+    "wind_capacity_factor_percent": 11.989540875182652
   },
   {
     "datetime_unix_seconds": 1786150800,
@@ -39,9 +39,9 @@ window.currentEnergyData = [
     "solar_generation_mw": 25.5,
     "solar_capacity_gw_used": 8.8465,
     "solar_capacity_factor_percent": 0.28824959023342567,
-    "wind_generation_mw": 37.550000000000004,
+    "wind_generation_mw": 42.575,
     "wind_capacity_gw_used": 0.325075,
-    "wind_capacity_factor_percent": 11.55118049680843
+    "wind_capacity_factor_percent": 13.096977620549104
   },
   {
     "datetime_unix_seconds": 1786154400,
@@ -50,9 +50,9 @@ window.currentEnergyData = [
     "solar_generation_mw": 25.475,
     "solar_capacity_gw_used": 8.8465,
     "solar_capacity_factor_percent": 0.2879669925959419,
-    "wind_generation_mw": 30.575000000000003,
+    "wind_generation_mw": 33.8,
     "wind_capacity_gw_used": 0.325075,
-    "wind_capacity_factor_percent": 9.405521802660925
+    "wind_capacity_factor_percent": 10.397600553718373
   },
   {
     "datetime_unix_seconds": 1786158000,
@@ -61,9 +61,9 @@ window.currentEnergyData = [
     "solar_generation_mw": 60.375,
     "solar_capacity_gw_used": 8.8465,
     "solar_capacity_factor_percent": 0.6824732945232578,
-    "wind_generation_mw": 21.575,
+    "wind_generation_mw": 24.2,
     "wind_capacity_gw_used": 0.325075,
-    "wind_capacity_factor_percent": 6.63692993924479
+    "wind_capacity_factor_percent": 7.4444358994078295
   },
   {
     "datetime_unix_seconds": 1786161600,
@@ -72,9 +72,9 @@ window.currentEnergyData = [
     "solar_generation_mw": 357.625,
     "solar_capacity_gw_used": 8.8465,
     "solar_capacity_factor_percent": 4.042559204205053,
-    "wind_generation_mw": 20.25,
+    "wind_generation_mw": 21.9,
     "wind_capacity_gw_used": 0.325075,
-    "wind_capacity_factor_percent": 6.229331692686303
+    "wind_capacity_factor_percent": 6.736906867645928
   },
   {
     "datetime_unix_seconds": 1786165200,
@@ -83,9 +83,9 @@ window.currentEnergyData = [
     "solar_generation_mw": 1127.6499999999999,
     "solar_capacity_gw_used": 8.8465,
     "solar_capacity_factor_percent": 12.746849036342054,
-    "wind_generation_mw": 13.649999999999999,
+    "wind_generation_mw": 15.549999999999999,
     "wind_capacity_gw_used": 0.325075,
-    "wind_capacity_factor_percent": 4.1990309928478045
+    "wind_capacity_factor_percent": 4.783511497346766
   },
   {
     "datetime_unix_seconds": 1786168800,
@@ -94,9 +94,9 @@ window.currentEnergyData = [
     "solar_generation_mw": 1951.15,
     "solar_capacity_gw_used": 8.8465,
     "solar_capacity_factor_percent": 22.055615215056804,
-    "wind_generation_mw": 10.3,
+    "wind_generation_mw": 12.175,
     "wind_capacity_gw_used": 0.325075,
-    "wind_capacity_factor_percent": 3.168499577020688
+    "wind_capacity_factor_percent": 3.745289548565716
   },
   {
     "datetime_unix_seconds": 1786172400,
@@ -105,9 +105,9 @@ window.currentEnergyData = [
     "solar_generation_mw": 2557.775,
     "solar_capacity_gw_used": 8.8465,
     "solar_capacity_factor_percent": 28.912846888600015,
-    "wind_generation_mw": 13.724999999999998,
+    "wind_generation_mw": 15.850000000000001,
     "wind_capacity_gw_used": 0.325075,
-    "wind_capacity_factor_percent": 4.2221025917096044
+    "wind_capacity_factor_percent": 4.875797892793972
   },
   {
     "datetime_unix_seconds": 1786176000,
@@ -116,9 +116,9 @@ window.currentEnergyData = [
     "solar_generation_mw": 2626.125,
     "solar_capacity_gw_used": 8.8465,
     "solar_capacity_factor_percent": 29.685468829480588,
-    "wind_generation_mw": 7.425000000000001,
+    "wind_generation_mw": 10.8,
     "wind_capacity_gw_used": 0.325075,
-    "wind_capacity_factor_percent": 2.2840882873183115
+    "wind_capacity_factor_percent": 3.322310236099362
   },
   {
     "datetime_unix_seconds": 1786179600,
@@ -127,9 +127,9 @@ window.currentEnergyData = [
     "solar_generation_mw": 3036.125,
     "solar_capacity_gw_used": 8.8465,
     "solar_capacity_factor_percent": 34.320070084214095,
-    "wind_generation_mw": 44.275000000000006,
+    "wind_generation_mw": 46.449999999999996,
     "wind_capacity_gw_used": 0.325075,
-    "wind_capacity_factor_percent": 13.619933861416596
+    "wind_capacity_factor_percent": 14.289010228408827
   },
   {
     "datetime_unix_seconds": 1786183200,
@@ -138,9 +138,9 @@ window.currentEnergyData = [
     "solar_generation_mw": 3207.075,
     "solar_capacity_gw_used": 8.8465,
     "solar_capacity_factor_percent": 36.25247272932798,
-    "wind_generation_mw": 37.8,
+    "wind_generation_mw": 39.725,
     "wind_capacity_gw_used": 0.325075,
-    "wind_capacity_factor_percent": 11.628085826347766
+    "wind_capacity_factor_percent": 12.220256863800662
   },
   {
     "datetime_unix_seconds": 1786186800,
@@ -149,9 +149,9 @@ window.currentEnergyData = [
     "solar_generation_mw": 3258.6249999999995,
     "solar_capacity_gw_used": 8.8465,
     "solar_capacity_factor_percent": 36.83518905781947,
-    "wind_generation_mw": 40.475,
+    "wind_generation_mw": 44.15,
     "wind_capacity_gw_used": 0.325075,
-    "wind_capacity_factor_percent": 12.450972852418673
+    "wind_capacity_factor_percent": 13.581481196646926
   },
   {
     "datetime_unix_seconds": 1786190400,
@@ -160,9 +160,9 @@ window.currentEnergyData = [
     "solar_generation_mw": 3261.6,
     "solar_capacity_gw_used": 8.8465,
     "solar_capacity_factor_percent": 36.86881817668004,
-    "wind_generation_mw": 30.575,
+    "wind_generation_mw": 33.699999999999996,
     "wind_capacity_gw_used": 0.325075,
-    "wind_capacity_factor_percent": 9.405521802660925
+    "wind_capacity_factor_percent": 10.366838421902637
   },
   {
     "datetime_unix_seconds": 1786194000,
@@ -171,9 +171,9 @@ window.currentEnergyData = [
     "solar_generation_mw": 3169.9750000000004,
     "solar_capacity_gw_used": 8.8465,
     "solar_capacity_factor_percent": 35.833097835302105,
-    "wind_generation_mw": 29.725,
+    "wind_generation_mw": 33.025,
     "wind_capacity_gw_used": 0.325075,
-    "wind_capacity_factor_percent": 9.14404368222718
+    "wind_capacity_factor_percent": 10.159194032146427
   },
   {
     "datetime_unix_seconds": 1786197600,
@@ -182,9 +182,9 @@ window.currentEnergyData = [
     "solar_generation_mw": 2875.9750000000004,
     "solar_capacity_gw_used": 8.8465,
     "solar_capacity_factor_percent": 32.509749618493196,
-    "wind_generation_mw": 30.55,
+    "wind_generation_mw": 33.625,
     "wind_capacity_gw_used": 0.325075,
-    "wind_capacity_factor_percent": 9.397831269706991
+    "wind_capacity_factor_percent": 10.343766823040838
   },
   {
     "datetime_unix_seconds": 1786201200,
@@ -193,9 +193,9 @@ window.currentEnergyData = [
     "solar_generation_mw": 2058.25,
     "solar_capacity_gw_used": 8.8465,
     "solar_capacity_factor_percent": 23.26626349403719,
-    "wind_generation_mw": 37.5,
+    "wind_generation_mw": 41.375,
     "wind_capacity_gw_used": 0.325075,
-    "wind_capacity_factor_percent": 11.535799430900562
+    "wind_capacity_factor_percent": 12.727832038760287
   },
   {
     "datetime_unix_seconds": 1786204800,
@@ -204,9 +204,9 @@ window.currentEnergyData = [
     "solar_generation_mw": 932.8499999999999,
     "solar_capacity_gw_used": 8.8465,
     "solar_capacity_factor_percent": 10.544848245068671,
-    "wind_generation_mw": 34.224999999999994,
+    "wind_generation_mw": 38.475,
     "wind_capacity_gw_used": 0.325075,
-    "wind_capacity_factor_percent": 10.528339613935245
+    "wind_capacity_factor_percent": 11.835730216103975
   },
   {
     "datetime_unix_seconds": 1786208400,
@@ -215,9 +215,9 @@ window.currentEnergyData = [
     "solar_generation_mw": 261.525,
     "solar_capacity_gw_used": 8.8465,
     "solar_capacity_factor_percent": 2.956253885717515,
-    "wind_generation_mw": 40.725,
+    "wind_generation_mw": 38.375,
     "wind_capacity_gw_used": 0.325075,
-    "wind_capacity_factor_percent": 12.52787818195801
+    "wind_capacity_factor_percent": 11.804968084288243
   },
   {
     "datetime_unix_seconds": 1786212000,
@@ -226,9 +226,9 @@ window.currentEnergyData = [
     "solar_generation_mw": 81.4,
     "solar_capacity_gw_used": 8.8465,
     "solar_capacity_factor_percent": 0.920137907647092,
-    "wind_generation_mw": 48.325,
+    "wind_generation_mw": 55.825,
     "wind_capacity_gw_used": 0.325075,
-    "wind_capacity_factor_percent": 14.865800199953858
+    "wind_capacity_factor_percent": 17.17296008613397
   },
   {
     "datetime_unix_seconds": 1786215600,
@@ -237,9 +237,9 @@ window.currentEnergyData = [
     "solar_generation_mw": 37.925,
     "solar_capacity_gw_used": 8.8465,
     "solar_capacity_factor_percent": 0.4287006160628497,
-    "wind_generation_mw": 66.275,
+    "wind_generation_mw": 73.925,
     "wind_capacity_gw_used": 0.325075,
-    "wind_capacity_factor_percent": 20.38760286087826
+    "wind_capacity_factor_percent": 22.74090594478197
   },
   {
     "datetime_unix_seconds": 1786219200,
@@ -248,9 +248,9 @@ window.currentEnergyData = [
     "solar_generation_mw": 29.25,
     "solar_capacity_gw_used": 8.8465,
     "solar_capacity_factor_percent": 0.33063923585598826,
-    "wind_generation_mw": 74.2,
+    "wind_generation_mw": 79.7,
     "wind_capacity_gw_used": 0.325075,
-    "wind_capacity_factor_percent": 22.825501807275245
+    "wind_capacity_factor_percent": 24.51741905714066
   },
   {
     "datetime_unix_seconds": 1786222800,
@@ -259,8 +259,8 @@ window.currentEnergyData = [
     "solar_generation_mw": 26.725,
     "solar_capacity_gw_used": 8.8465,
     "solar_capacity_factor_percent": 0.30209687447012945,
-    "wind_generation_mw": 54.375,
+    "wind_generation_mw": 61.95,
     "wind_capacity_gw_used": 0.325075,
-    "wind_capacity_factor_percent": 16.726909174805815
+    "wind_capacity_factor_percent": 19.05714065984773
   }
 ];
