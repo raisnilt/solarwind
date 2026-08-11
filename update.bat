@@ -1,5 +1,5 @@
 @echo off
-cd /c "C:\Users\Kristof\Desktop\szelnap"
+cd /c "C:\Users\Kristof\Desktop\MIX\szelnap"
 
 echo Git add...
 git add .
