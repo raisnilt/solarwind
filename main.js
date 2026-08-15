@@ -14,6 +14,8 @@ const files = [
   "energy_data_2026-08-09.js",
   "energy_data_2026-08-10.js",
   "energy_data_2026-08-11.js",
+  "energy_data_2026-08-12.js",
+  "energy_data_2026-08-13.js",
 ];
 
 
