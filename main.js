@@ -19,6 +19,11 @@ const files = [
   "energy_data_2026-08-14.js",
   "energy_data_2026-08-15.js",
   "energy_data_2026-08-16.js",
+  "energy_data_2026-08-17.js",
+  "energy_data_2026-08-18.js",
+  "energy_data_2026-08-19.js",
+  "energy_data_2026-08-20.js",
+  "energy_data_2026-08-21.js",
 ];
 
 
@@ -84,6 +89,14 @@ function createTable() {
     }).join("");
 
     table.innerHTML = `
+			<tr>
+				 <th><a href="https://app.electricitymaps.com/map/zone/HU/live/hourly?signal=renewable-energy">source</a></th>
+				 <th>áram ára (eur/MWh)</th>
+				 <th>nap kapacitás</th>
+				 <th>szél kapacitás</th>
+				 <th>nap <abbr title="kapacitás * ára">'értéke'</abbr></th>
+				 <th>szél <abbr title="kapacitás * ára">'értéke'</abbr></th>
+			</tr>
         ${rows}
     `;
 	
